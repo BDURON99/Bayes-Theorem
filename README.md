@@ -1,2 +1,2 @@
-# Bayes_Theorem_Digital_Education
+# Bayes Theorem
 A digital education project on Bayes theorem for first year EPFL students
